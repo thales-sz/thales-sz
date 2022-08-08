@@ -24,7 +24,8 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-## Contact me : 
+<h2 align = 'Center'> Contact me <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/> </h2> 
+ 
 📫 [![Gmail Badge](https://img.shields.io/badge/-thales.sz@outlook.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:thales.souz@outlook.com)](thales.souz@outlook.com)
 [![Instagram Badge](https://img.shields.io/badge/-thales.sc-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/thales.sc/)](https://www.instagram.com/thales.sc/)
 
