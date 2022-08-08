@@ -68,7 +68,7 @@ src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-
   <a href="https://wa.me/+5524999035459?text=Hi%20Thales" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="55" height="50" alt="whatsapp logo" />
   </a>
-  <a>
+  <a href="mailto:thales.souz@outlook.com">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="50" alt="gmail logo"  />
   </a>
 </div>
