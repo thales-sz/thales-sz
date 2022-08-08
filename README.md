@@ -8,7 +8,7 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-  <h2> My statistics 🚀 </h2>
+  <h2> My statistics <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/> </h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=thales-sz&show_icons=true&theme=tokyonight" alt="mystats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=thales-sz&theme=tokyonight" alt="mystreak"/>
