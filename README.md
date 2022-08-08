@@ -55,12 +55,24 @@ src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-
 
 <h2 align="center">Connect with me</h2>
 <div align="left">
+  <a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="50" alt="linkedin logo" />
+  </a>
+  <a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="55" height="50" alt="twitter logo"  />
+  </a>
+  <a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="55" height="50" alt="youtube logo"  />
+  </a>
+  <a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="50" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="55" height="50" alt="whatsapp logo"  href="https://wa.me/+555524999035459?text=Hi%20Thales"/>
+  </a>
+  <a href="https://wa.me/+555524999035459?text=Hi%20Thales" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="55" height="50" alt="whatsapp logo" />
+  </a>
+  <a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="50" alt="gmail logo"  />
+  </a>
 </div>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img
@@ -68,3 +80,4 @@ src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-
 
 <h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">"General Kenobi"</a></h2>
 <h6 align="center">Made with ❤️ by Me (probably)</h6>
+
