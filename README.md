@@ -32,7 +32,7 @@
   
   <h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
 <p align="center">
-  <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/thales-sz/thales-sz/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 <h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">"General Kenobi"</a></h2>
