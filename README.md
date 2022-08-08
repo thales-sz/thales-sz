@@ -7,7 +7,7 @@
 
 ### My name is Thales, 
 ### I'm currently studying Backend
-### Brazilian
+### Brazilian 🇧🇷
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thales-sz&label=Profile%20views&color=0e75b6&style=flat" alt="thales-sz" /> </p>
 
