@@ -9,7 +9,9 @@
 ### I'm currently studying Backend
 ### Brazilian 🇧🇷
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thales-sz&label=Profile%20views&color=0e75b6&style=flat" alt="thales-sz" /> </p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ta/count.svg?"  />
+</div>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img
 src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -65,22 +67,6 @@ src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img
 src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Thales Chagas">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img href="https://raw.githubusercontent.com/ta/ta/blob/output/snake.svg" alt="Snake animation" />
-
-###
 
 <h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">"General Kenobi"</a></h2>
 <h6 align="center">Made with ❤️ by Me (probably)</h6>
