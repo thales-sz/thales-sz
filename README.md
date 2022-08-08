@@ -71,6 +71,7 @@ src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-
   <a href="mailto:thales.souz@outlook.com">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="50" alt="gmail logo"  />
   </a>
+  <A HREF="mailto:thales.souz@outlook.com?Subject=Contact%20With%20Me&Body=Hello%20Thales%2C">linkText</A>
 </div>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img
