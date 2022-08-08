@@ -53,26 +53,22 @@ src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-
 
 <h2 align="center">Connect with me</h2>
 <div align="left">
-  <a>
+  <a href="https://www.linkedin.com/in/thales-sz/">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="50" alt="linkedin logo" />
   </a>
-  <a>
+  <a href="https://twitter.com/thsmoke">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="55" height="50" alt="twitter logo"  />
   </a>
-  <a>
+  <a href="https://www.youtube.com/channel/UCwlP8iBml6UpyrRQYukXw7A">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="55" height="50" alt="youtube logo"  />
   </a>
-  <a>
+  <a href="https://www.instagram.com/thales.sc/">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="50" alt="instagram logo"  />
   </a>
   <a href="https://wa.me/+5524999035459?text=Hi%20Thales" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="55" height="50" alt="whatsapp logo" />
   </a>
-  <a href="mailto:thales.souz@outlook.com">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="50" alt="gmail logo"  />
-  </a>
-  <A HREF="mailto:thales.souz@outlook.com?Subject=Contact%20With%20Me&Body=Hello%20Thales%2C">linkText</A>
-</div>
+  </div>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img
 src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
