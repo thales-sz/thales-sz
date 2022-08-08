@@ -30,39 +30,27 @@ src="https://github-readme-stats.vercel.app/api?username=thales-sz&show_icons=tr
 src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h2 align='Center'> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?" width="40"></h2>
-<p align="left">
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img
-  src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="60" /> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-  alt="bootstrap" width="60" /> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-  width="60" /> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-  alt="docker" width="60" /> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" /> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-  alt="html5" width="60" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-target="_blank" rel="noreferrer"> <img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-  alt="javascript" width="60" /> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img
-  src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="60" /> </a> <a
-href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-  width="60" /> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-  alt="mysql" width="60" /> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-  alt="react" width="60" /> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img
-  src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" />
-</a>
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" width="52" alt="storybook logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" width="52" alt="arduino logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="52" alt="bash logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" width="52" alt="chrome logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" width="52" alt="npm logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="52" alt="redux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" width="52" alt="slack logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" width="52" alt="ubuntu logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
+</div>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img
 src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
