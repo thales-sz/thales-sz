@@ -3,9 +3,9 @@
 
 ### :smiley: Hi my name is Thales!
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer+Junior;Fullstack+Developer+Student+at+Trybe;Always+learning+new+things;Learning+Backend;Currently+in+Brazil;&center=true&width=500&height=50"></a>
+<a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer+Junior;Fullstack+Developer+Student+at+Trybe;Always+learning+new+things;Learning+Backend;Currently+in+Brazil;&center=true&width=500&height=50"></a>
 
-<p><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
+<p><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img
 src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
