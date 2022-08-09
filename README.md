@@ -1,9 +1,9 @@
 <h1 align='Center'> Hello There < Developers/>! <img
   src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30px> </h1>
 
-### :smiley: I am a Full-stack Developer student at Trybe
+### :smiley: Hi my name is Thales!
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+Developer+Student;Always+learning+new+things&center=true&width=500&height=50"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer+Junior+;Fullstack+Developer+Student+at+Trybe+School;Always+learning+new+things;Learning+Backend;Currently+in+Brazil;&center=true&width=500&height=50"></a>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/ta/count.svg?"  />
