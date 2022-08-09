@@ -52,7 +52,7 @@ src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-
 src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h2 align="center">Connect with me
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px">
 </h2>
 <div align="left">
   <a href="https://www.linkedin.com/in/thales-sz/">
