@@ -1,9 +1,9 @@
 <h1 align='Center'> Hello There < Developers/>! <img
   src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30px> </h1>
 
-<div display="flex" alignItems="center">
-  <p><img align="center" src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer+Junior;Fullstack+Developer+Student+at+Trybe;Always+learning+new+things;Learning+Backend;Currently+in+Brazil;&center=true&width=500&height=50"></p>
-  <img src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" width="400px"/>
+<div>
+  <p align="center" ><img align="center" src="https://readme-typing-svg.herokuapp.com?lines=My+name+is+Thales;Frontend+Developer+Junior;Fullstack+Developer+Student+at+Trybe;Always+learning+new+things;Learning+Backend;Currently+in+Brazil;&center=true&width=500&height=50"></p>
+  <p align="center"><img src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" width="350px"/></p>
 </div>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img
