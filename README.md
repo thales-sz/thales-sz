@@ -47,7 +47,7 @@ src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-
 <h2 align="center">Connect with me
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px">
 </h2>
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/thales-sz/">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="50" alt="linkedin logo" />
   </a>
