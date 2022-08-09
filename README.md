@@ -1,13 +1,7 @@
 <h1 align='Center'> Hello There < Developers/>! <img
   src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30px> </h1>
-<p align='center'>
-</p>
 
 ### :smiley: I am a Full-stack Developer student at Trybe
-
-### My name is Thales, 
-### I'm currently studying Backend
-### Brazilian 🇧🇷
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+Developer+Student;Always+learning+new+things&center=true&width=500&height=50"></a>
 
