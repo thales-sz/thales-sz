@@ -4,6 +4,7 @@
 ### :smiley: Hi my name is Thales!
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer+Junior;Fullstack+Developer+Student+at+Trybe;Always+learning+new+things;Learning+Backend;Currently+in+Brazil;&center=true&width=500&height=50"></a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/ta/count.svg?"  />
