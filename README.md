@@ -51,7 +51,9 @@ src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img
 src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<h2 align="center">Connect with me</h2>
+<h2 align="center">Connect with me
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+</h2>
 <div align="left">
   <a href="https://www.linkedin.com/in/thales-sz/">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="50" alt="linkedin logo" />
