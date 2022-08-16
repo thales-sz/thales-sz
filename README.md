@@ -4,6 +4,12 @@
 
 <div>
   <p align="center" ><img align="center" src="https://readme-typing-svg.herokuapp.com?lines=I'm+Thales...;Junior+Frontend+Developer;Fullstack+Developer+Student+at+Trybe;Always+learning+new+things;Learning+Backend;Currently+in+Brazil;&center=true&width=500&height=50"></p>
+ 
+  <h3 align="center">🇧🇷 Brazilian Front-End Developer</h3>
+
+  <p align="center"> 🌱 I’m currently learning Back-End development</p>
+  <p align="center"> 🌎 Passionate about React.js</p>
+  
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img
 src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
   <p align="center"><img src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" width="350px"/></p>
