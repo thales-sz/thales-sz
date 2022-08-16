@@ -53,12 +53,6 @@ src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-
   <a href="https://www.linkedin.com/in/thales-sz/">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="50" alt="linkedin logo" />
   </a>
-  <a href="https://twitter.com/thsmoke">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="55" height="50" alt="twitter logo"  />
-  </a>
-  <a href="https://www.youtube.com/channel/UCwlP8iBml6UpyrRQYukXw7A">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="55" height="50" alt="youtube logo"  />
-  </a>
   <a href="https://www.instagram.com/thales.sc/">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="50" alt="instagram logo"  />
   </a>
