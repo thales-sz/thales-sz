@@ -7,8 +7,8 @@
  
   <h3 align="center">🇧🇷 Brazilian Front-End Developer</h3>
 
-  <p align="center"> 🌱 I’m currently learning Back-End development</p>
-  <p align="center"> 🌎 Passionate about React.js</p>
+  <p align="center"> 🌱 I’m currently learning Node.js</p>
+  <p align="center"> 🌎 Passionate about React.js and Styled Components</p>
   
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img
 src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
