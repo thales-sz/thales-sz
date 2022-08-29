@@ -22,11 +22,13 @@ src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-
 width="30" /><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30" /> </h2>
 
 <p align="center"><img align="center"
-src="https://github-readme-stats.vercel.app/api/top-langs?username=thales-sz&show_icons=true&locale=en&layout=compact"
+src="https://github-readme-stats.vercel.app/api/top-langs?username=thales-sz&show_icons=true&theme=github_dark&layout=compact"
 alt="thales-sz" /></p>
 
 <p align="center"><img align="center"
-src="https://github-readme-stats.vercel.app/api?username=thales-sz&show_icons=true&locale=en" alt="thales-sz" /></p>
+src="https://github-readme-stats.vercel.app/api?username=thales-sz&theme=github_dark&show_icons=true" alt="thales-sz" /></p>
+
+
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img
 src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -71,3 +73,6 @@ src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-
 <h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">"General Kenobi"</a></h2>
 <h6 align="center">Made with ❤️ by Me (probably)</h6>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thales-sz&repo=thales-sz.github.io&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thales-sz&repo=netflix-clone-with-react-redux&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thales-sz&repo=trybewallet&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
