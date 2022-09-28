@@ -35,15 +35,50 @@ src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-
 
 <h2 align='Center'> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?" width="40"></h2>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="55" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" width="55" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50" width="55" alt="redux logo"  /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="55" alt="html logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="50" width="55" alt="jest logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="55" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" width="55" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" width="55" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" width="55" />
+  <a href="https://www.javascript.com/" target="_blank">
+    <div>JavaScript</div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="55" alt="javascript logo"  />
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <div>React</div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" width="55" alt="react logo"  />
+  </a>
+  <a href="https://redux.js.org/" target="_blank">
+    <div>Redux</div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50" width="55" alt="redux logo"  /> 
+  </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
+    <div>HTML</div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="55" alt="html logo" />
+  </a>
+  <a href="https://jestjs.io/" target="_blank">
+    <div>Jest</div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="50" width="55" alt="jest logo"  />
+  </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
+    <div>CSS3</div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="55" alt="css3 logo"  />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <div>MySQL</div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" width="55" alt="mysql logo"  />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <div>TypeScript</div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" width="55" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <div>TailWind CSS</div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="50" width="55" />
+  </a>
+  <a href="https://nodejs.org/en/docs/" target="_blank">
+    <div>Node.js</div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" width="55"/>
+  </a>
+  <a href="https://mochajs.org/" target="_blank">
+    <div>Mocha</div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" height="50" width="55"/>
+  </a>
 </div>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img
