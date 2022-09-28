@@ -132,9 +132,9 @@ src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-
   <img src="https://profile-counter.glitch.me/ta/count.svg?"  />
 </div>
 
-<h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">"General Kenobi"</a></h2>
-<h6 align="center">Made with ❤️ by Me (probably)</h6>
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thales-sz&repo=thales-sz.github.io&theme=github_dark)](https://github.com/thales-sz/thales-sz.github.io)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thales-sz&repo=netflix-clone-with-react-redux&theme=github_dark)](https://github.com/thales-sz/netflix-clone-with-react-redux)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thales-sz&repo=trybewallet&theme=github_dark)](https://github.com/thales-sz/trybewallet)
+
+<h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">"General Kenobi"</a></h2>
+<h6 align="center">Made with ❤️ by Me (probably)</h6>
