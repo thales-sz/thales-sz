@@ -9,11 +9,6 @@
 
   <p align="center"> 🌱 I’m currently learning TypeScript</p>
   <p align="center"> 🌎 Passionate about Node.js, React.js and Styled Components</p>
-  
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img
-src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-  <p align="center"><img src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" width="350px"/></p>
-</div>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img
 src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -27,8 +22,6 @@ alt="thales-sz" /></p>
 
 <p align="center"><img align="center"
 src="https://github-readme-stats.vercel.app/api?username=thales-sz&theme=github_dark&show_icons=true" alt="thales-sz" /></p>
-
-
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img
 src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
