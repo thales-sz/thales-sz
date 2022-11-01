@@ -7,7 +7,7 @@
  
   <h3 align="center">🇧🇷 Brazilian Front-End Developer</h3>
 
-  <p align="center"> 🌱 I’m currently learning TypeScript and SOLID</p>
+  <p align="center"> 🌱 I’m currently learning MongoDB, TypeScript and SOLID</p>
   <p align="center"> 🌎 Passionate about Node.js and React.js</p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img
