@@ -1,11 +1,11 @@
-<h1 align='Center'> Hello There < Developers/>! <img
+<h1 align='Center'> Hello There! <img
   src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30px> </h1>
   
 
 <div>
   <p align="center" ><img align="center" src="https://readme-typing-svg.herokuapp.com?lines=I'm+Thales...;Junior+Frontend+Developer;Fullstack+Developer+Student+at+Trybe;Always+learning+new+things;Learning+Backend;Currently+in+Brazil;&center=true&width=500&height=50"></p>
  
-  <h3 align="center">🇧🇷 Brazilian Front-End Developer</h3>
+  <h3 align="center">🇧🇷 Brazilian Fullstack Developer</h3>
 
   <p align="center"> 🌱 I’m currently learning MongoDB and SOLID</p>
   <p align="center"> 🌎 Passionate about Node.js and React.js</p>
