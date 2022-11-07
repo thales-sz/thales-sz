@@ -3,7 +3,7 @@
   
 
 <div>
-  <p align="center" ><img align="center" src="https://readme-typing-svg.herokuapp.com?lines=I'm+Thales...;Junior+Frontend+Developer;Fullstack+Developer+Student+at+Trybe;Always+learning+new+things;Learning+Backend;Currently+in+Brazil;&center=true&width=500&height=50"></p>
+  <p align="center" ><img align="center" src="https://readme-typing-svg.herokuapp.com?lines=I'm+Thales...;Junior+Fullstack+Developer;Fullstack+Developer+Student+at+Trybe;Always+learning+new+things;Learning+mongoDB;Currently+in+Brazil;&center=true&width=500&height=50"></p>
  
   <h3 align="center">🇧🇷 Brazilian Fullstack Developer</h3>
 
