@@ -91,9 +91,9 @@ src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-
     </a>
   </td>
   <td>
-    <a href="https://mochajs.org/" target="_blank" align="center">
-      <div>Mocha</div>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" height="50" width="55"/>
+    <a href="https://www.mongodb.com/" target="_blank" align="center">
+      <div>MongoDB</div>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="50" width="55" />
     </a>
   </td>
   </tr>
