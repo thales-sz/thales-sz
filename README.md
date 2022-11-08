@@ -93,7 +93,7 @@ src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-
   <td>
     <a href="https://www.mongodb.com/" target="_blank" align="center">
       <div>MongoDB</div>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="50" width="55" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" width="55"/>
     </a>
   </td>
   </tr>
