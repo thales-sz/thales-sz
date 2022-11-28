@@ -7,7 +7,7 @@
  
   <h3 align="center">🇧🇷 Brazilian Fullstack Developer</h3>
 
-  <p align="center"> 🌱 I’m currently learning MongoDB</p>
+  <p align="center"> 🌱 I’m currently learning Computer Science</p>
   <p align="center"> 🌎 Passionate about Node.js and React.js</p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img
@@ -125,7 +125,7 @@ src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-
 src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/ta/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/ta/count.svg?" />
 </div>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thales-sz&repo=thales-sz.github.io&theme=github_dark)](https://github.com/thales-sz/thales-sz.github.io)
@@ -134,5 +134,4 @@ src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thales-sz&repo=NLW_eSports&theme=github_dark)](https://github.com/thales-sz/NLW_eSports)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thales-sz&repo=trybeFutebolClub&theme=github_dark)](https://github.com/thales-sz/trybeFutebolClub)
 
-<h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">"General Kenobi"</a></h2>
-<h6 align="center">Made with ❤️ by Me (probably)</h6>
+<h6 align="center">Made with ❤️ by Me</h6>
