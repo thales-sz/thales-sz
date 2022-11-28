@@ -133,5 +133,6 @@ src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thales-sz&repo=trybewallet&theme=github_dark)](https://github.com/thales-sz/trybewallet)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thales-sz&repo=NLW_eSports&theme=github_dark)](https://github.com/thales-sz/NLW_eSports)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thales-sz&repo=trybeFutebolClub&theme=github_dark)](https://github.com/thales-sz/trybeFutebolClub)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thales-sz&repo=car-shop&theme=github_dark)](https://github.com/thales-sz/car-shop)
 
 <h6 align="center">Made with ❤️ by Me</h6>
