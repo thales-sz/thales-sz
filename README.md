@@ -43,9 +43,9 @@ src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-
     </a>
   </td>
   <td>
-    <a href="https://redux.js.org/" target="_blank" align="center">
-      <div>Redux</div>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50" width="55" alt="redux logo"  /> 
+    <a href="https://www.python.org/" target="_blank" align="center">
+      <div>Python</div>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="55" alt="python logo"  /> 
     </a>
   </td>
   <td>
