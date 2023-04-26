@@ -7,8 +7,8 @@
  
   <h3 align="center">🇧🇷 Brazilian Fullstack Developer</h3>
 
-  <p align="center"> 🌱 I’m currently learning Computer Science</p>
-  <p align="center"> 🌎 Passionate about Node, React and Python (a bit)</p>
+  <p align="center"> 🌱 I’m currently learning NestJS</p>
+  <p align="center"> 🌎 Passionate about Node, React</p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img
 src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
