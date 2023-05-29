@@ -129,7 +129,7 @@ src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-
 </div>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thales-sz&repo=thales-sz.github.io&theme=github_dark)](https://github.com/thales-sz/thales-sz.github.io)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thales-sz&repo=netflix-clone-with-react-redux&theme=github_dark)](https://github.com/thales-sz/netflix-clone-with-react-redux)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thales-sz&repo=blogs-api&theme=github_dark)](https://github.com/thales-sz/blogs-api)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thales-sz&repo=car-shop&theme=github_dark)](https://github.com/thales-sz/car-shop)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thales-sz&repo=make-py&theme=github_dark)](https://github.com/thales-sz/make-py)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thales-sz&repo=trybeFutebolClub&theme=github_dark)](https://github.com/thales-sz/trybeFutebolClub)
