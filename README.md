@@ -7,8 +7,8 @@
  
   <h3 align="center">🇧🇷 Brazilian Fullstack Developer</h3>
 
-  <p align="center">Hello, I am a fullstack web developer passionate about the backend world, with experience in React and Node. My passion for technology and my willingness to work have led me to improve my skills and stay up-to-date with market trends. I am always looking for new challenges and opportunities to grow professionally. My goal is to contribute to innovative projects, using my technical and creative skills to develop efficient and elegant solutions. I am committed to delivering the best possible work and collaborating with high-performing teams to achieve exceptional results.</p>
-  <p align="center"> 🌎 Passionate about Node, React and Java</p>
+  <p align="center">Hello, I am a fullstack developer passionate about the backend world, with experience in React and Node. My passion for technology and my willingness to work have led me to improve my skills and stay up-to-date with market trends. I am always looking for new challenges and opportunities to grow professionally. My goal is to contribute to innovative projects, using my technical and creative skills to develop efficient and elegant solutions. I am committed to delivering the best possible work and collaborating with high-performing teams to achieve exceptional results.</p>
+  <p align="center"> 🌎 Passionate about Node and Java</p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img
 src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
