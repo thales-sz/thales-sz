@@ -7,7 +7,7 @@
  
   <h3 align="center">🇧🇷 Brazilian Backend Developer</h3>
 
-  <p align="center">Hello, I am a backend developer passionate about the technology world, with experience in Node, NestJS, React and Docker. My passion for technology and my willingness to work have led me to improve my skills and stay up-to-date with market trends. I am always looking for new challenges and opportunities to grow professionally. My goal is to contribute to innovative projects, using my technical and creative skills to develop efficient and elegant solutions. I am committed to delivering the best possible work and collaborating with high-performing teams to achieve exceptional results.</p>
+  <p align="center">Hello, I'm a backend developer passionate about the technology world, with experience in Node, NestJS, React and Docker. My passion for technology and my willingness to work have led me to improve my skills and stay up-to-date with market trends. I am always looking for new challenges and opportunities to grow professionally. My goal is to contribute to innovative projects, using my technical and creative skills to develop efficient and elegant solutions. I am committed to delivering the best possible work and collaborating with high-performing teams to achieve exceptional results.</p>
   <p align="center"> 🌎 Passionate about Node and Java <3 </p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img
@@ -31,27 +31,35 @@ src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-
 <table>
   <tr>
   <td>
-    <a href="https://www.javascript.com/" target="_blank" align="center">
-    <div>JavaScript</div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="55" alt="javascript logo"  />
-  </a>
-  </td>
-  <td>
-    <a href="https://reactjs.org/" target="_blank" align="center">
-      <div>React</div>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" width="55" alt="react logo"  />
+    <a href="https://www.typescriptlang.org/" target="_blank" align="center">
+      <div>TypeScript</div>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" width="55" />
     </a>
   </td>
   <td>
-    <a href="https://www.python.org/" target="_blank" align="center">
-      <div>Python</div>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="55" alt="python logo"  /> 
+    <a href="https://nodejs.org/en/docs/" target="_blank" align="center">
+      <div>Node.js</div>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" width="55" />
     </a>
   </td>
-    <td>
-    <a href="https://www.python.org/" target="_blank" align="center">
+  <td>
+    <a href="https://nestjs.com/" target="_blank" align="center">
+      <div>NestJS</div>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="50"
+        width="55" />
+    </a>
+  </td>
+  <td>
+    <a href="https://www.java.com/pt-BR/" target="_blank" align="center">
       <div>Java</div>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" width="55" alt="java logo" />  
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" width="55"
+        alt="java logo" />
+    </a>
+  </td>
+  <td>
+    <a href="https://spring.io/" target="_blank" align="center">
+      <div>Spring</div>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="50" width="55" />
     </a>
   </td>
   <td>
@@ -61,33 +69,9 @@ src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-
     </a>
   </td>
   <td>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" align="center">
-      <div>CSS3</div>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="55" alt="css3 logo"  />
-    </a>
-  </td>
-  <td>
     <a href="https://www.mysql.com/" target="_blank" align="center">
-      <div>MySQL</div>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" width="55" alt="mysql logo"  />
-    </a>
-  </td>
-  <td>
-    <a href="https://www.typescriptlang.org/" target="_blank" align="center">
-      <div>TypeScript</div>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" width="55" />
-    </a>
-  </td>
-  <td>
-    <a href="https://tailwindcss.com/" target="_blank" align="center">
-      <div>TailWind</div>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="50" width="55" />
-    </a>
-  </td>
-  <td>
-    <a href="https://nodejs.org/en/docs/" target="_blank" align="center">
-      <div>Node.js</div>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" width="55"/>
+      <div>Postgres</div>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"  height="50" width="55" alt="postgres logo"/>
     </a>
   </td>
   <td>
@@ -107,16 +91,13 @@ src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px">
 </h2>
 <div align="center">
-  <a href="https://www.linkedin.com/in/thales-sz/">
+  <a href="https://www.linkedin.com/in/thales-sz/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="50" alt="linkedin logo" />
-  </a>
-  <a href="https://www.instagram.com/thales.sc/">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="50" alt="instagram logo"  />
   </a>
   <a href="https://wa.me/+5524999035459?text=Hi%20Thales" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="55" height="50" alt="whatsapp logo" />
   </a>
-  <a href="mailto:thales.souz@outlook.com?Body=Hi">
+  <a href="mailto:thales.souz@outlook.com?Body=Hi" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="50" alt="gmail logo" />
   </a>
   </div>
